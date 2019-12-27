@@ -1,0 +1,16 @@
+body {font-size: .9em; font-family: verdana, sans-serif, cursive}
+         
+        
+         
+/* ***** MEDIA QUERIES  *******/
+/* ***** MEDIA QUERIES  480 px and above*******/
+@media screen and (max-width: 480px) {
+ body {font-size: 0.7em;}
+ 
+}
+
+@media screen and (max-width: 992px) {
+ article > img {width:90%; margin-right: auto; margin-left: auto}
+ 
+}
+#itdgs,#ssd, #ics {color: brown;}

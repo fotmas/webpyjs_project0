@@ -1,0 +1,20 @@
+$color : #040354;
+$topical : #E216F4;
+$attention_color : red;
+$font_size : 0.8em;
+footer > p {
+    color: $color; font-size: $font_size;
+ 
+ }
+ 
+ article {
+    p {
+    font-size: 0.9em;
+    }
+    ol {
+        color: $attention_color;
+    }
+ }
+ 
+ .add_note {color:$attention_color; font-style: italic;}
+ #dba, #bwd, #bch, #itn {color: $topical;}

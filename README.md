@@ -8,4 +8,4 @@ Web Programming with Python and JavaScript
 # It contains a brief description of the website.
 # The services page highlight few key services carried out by the company
 # About page has a more detailed information about the firm which includes contact.
-# All the pages are link so navigation to any of the pages is pretty simple.
+# All the pages are linked in such a way that navigation to any of the pages is pretty simple.
